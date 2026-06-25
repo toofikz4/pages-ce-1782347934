@@ -1,0 +1,7 @@
+title: pages-ce-probe
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-sneaky-probe
